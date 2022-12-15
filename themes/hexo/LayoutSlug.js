@@ -70,8 +70,8 @@ export const LayoutSlug = props => {
                 data-adtest="on"
                 data-ad-layout="in-article"
                 data-ad-format="fluid"
-                data-ad-client="ca-pub-2708419466378217"
-                data-ad-slot="3806269138" />
+                data-ad-client="ca-pub-8522617122947382"
+                data-ad-slot="6789199270" />
             </section>
 
             {post.type === 'Post' && <ArticleCopyright {...props} /> }

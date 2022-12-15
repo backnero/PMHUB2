@@ -69,9 +69,9 @@ const SideBar = (props) => {
       style={{ display: 'block' }}
       data-adtest="on"
       data-ad-format="fluid"
-      data-ad-layout-key="-5j+cz+30-f7+bf"
-      data-ad-client="ca-pub-2708419466378217"
-      data-ad-slot="1510444138"/>
+      data-ad-layout-key="-6t+ed+2i-1n-4w"
+      data-ad-client="ca-pub-8522617122947382"
+      data-ad-slot="2578491527"/>
     </section>
 
   </aside>

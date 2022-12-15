@@ -31,8 +31,8 @@ const SideAreaRight = (props) => {
           className='adsbygoogle'
           style={{ display: 'block' }}
           data-adtest='on'
-          data-ad-client='ca-pub-2708419466378217'
-          data-ad-slot='8807314373'
+          data-ad-client='ca-pub-8522617122947382'
+          data-ad-slot='6789199270'
           data-ad-format='auto'
           data-full-width-responsive='true'
         />
