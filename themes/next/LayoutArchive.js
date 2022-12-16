@@ -17,7 +17,8 @@ export const LayoutArchive = (props) => {
   const archivePosts = {}
 
   postsSortByDate.forEach(post => {
-    const date = post.date?.start_date.slice(0, 7)
+    // const date = post.date?.start_date.slice(0, 7)//按date字段分组
+    const date = post.createdTime.slice(0, 7)//按creattime分组
     if (archivePosts[date]) {
       archivePosts[date].push(post)
     } else {
